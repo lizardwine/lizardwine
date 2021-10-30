@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lizard
-- 👀 I’m interested in backend, cibersecurity and open source proyçjects
+- 👀 I’m interested in backend, cibersecurity and open source projects
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 discord: Lizard#2097
