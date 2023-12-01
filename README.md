@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Lizard
-- 👀 I’m interested in backend, open source projects
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on any open source project
+# ¡Hola! 👋
 
+¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un apasionado desarrollador de software.
+
+## Acerca de mí
+- 📫 Contacto: [lizardwine@hotmail.com](mailto:lizardwine@hotmail.com)
+
+## Tecnologías y Herramientas
+- 💻 Desarrollo: [Python], [Javascript], [Typescript]
+- 🛠️ Herramientas: [Caprover], [Docker], [Git]
+
+## Proyectos Destacados
+- [Litio](https://github.com/lizardwine/litio): Breve descripción del proyecto.
+
+## Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lizardwine&show_icons=true&hide_title=true&hide_border=true&count_private=true)
+
+## Contribuciones
+[![Contribuciones](https://img.shields.io/badge/Contribuciones-bienvenidas-brightgreen)](CONTRIBUTING.md)
+
+¡No dudes en explorar mis repositorios y contribuir! 😄
 
 <!---
 lizardwine/lizardwine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
