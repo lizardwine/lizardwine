@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un apasionado desarrollador de software.
+¡Bienvenido a mi perfil de GitHub! Soy Lizardwine, un apasionado desarrollador de software.
 
 ## Acerca de mí
 - 📫 Contacto: [lizardwine@hotmail.com](mailto:lizardwine@hotmail.com)
