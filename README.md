@@ -2,9 +2,6 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy Lizardwine, un apasionado desarrollador de software.
 
-## Acerca de mí
-- 📫 Contacto: [lizardwine@hotmail.com](mailto:lizardwine@hotmail.com)
-
 ## Tecnologías y Herramientas
 - 💻 Desarrollo: [Python], [Javascript], [Typescript]
 - 🛠️ Herramientas: [Caprover], [Docker], [Git]
