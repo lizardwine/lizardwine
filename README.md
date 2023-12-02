@@ -7,7 +7,7 @@
 - 🛠️ Herramientas: [Caprover], [Docker], [Git]
 
 ## Proyectos Destacados
-- [Litio](https://github.com/lizardwine/litio): Breve descripción del proyecto.
+- [Litio](https://github.com/lizardwine/litio): Una herramienta para testing potenciada por GPT
 
 ## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lizardwine&show_icons=true&hide_title=true&hide_border=true&count_private=true)
